@@ -14,7 +14,10 @@ GhostText é uma ferramenta em Python que permite traduzir textos de jogos em te
 - Extração de texto via OCR (atualmente usando EasyOCR)
 - Tradução automática (GoogleTranslator via deep-translator)
 - Sobreposição da tradução com efeito de desfoque (blur) no texto original
-- Atalhos de teclado configuráveis
+
+### Atalhos
+Ctrl + e (Trtaduz a Tela Inteira)
+Ctrl + Shift + e (Traduz apenas a área selecionada [Aperte enter para confirmar a seleção])
 
 ---
 
@@ -24,4 +27,4 @@ GhostText é uma ferramenta em Python que permite traduzir textos de jogos em te
 - Adicionar suporte a múltiplos idiomas e auto detecção
 - Melhorar o posicionamento do texto traduzido
 - Criar interface gráfica mais personalizável
-
+- Atalhos de teclado configuráveis
