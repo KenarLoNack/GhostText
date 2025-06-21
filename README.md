@@ -18,8 +18,8 @@ GhostText é uma ferramenta em Python que permite traduzir textos de jogos em te
 ---
 
 ### Atalhos
--Ctrl + e (Trtaduz a Tela Inteira)
--Ctrl + Shift + e (Traduz apenas a área selecionada [Aperte enter para confirmar a seleção])
+- Ctrl + e (Trtaduz a Tela Inteira)
+- Ctrl + Shift + e (Traduz apenas a área selecionada [Aperte enter para confirmar a seleção])
 
 ---
 
