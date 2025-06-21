@@ -1,12 +1,3 @@
-"""
-OCR com EasyOCR + Tradução com Deep Translator + Overlay em Tkinter (Windows)
-
-Melhorias:
-1. Limpeza adequada das regiões entre detecções
-2. Atualização completa da janela de textos
-3. Controle de tamanho de fonte
-"""
-
 import tkinter as tk
 from tkinter import Canvas, Toplevel, Text, Scrollbar, Frame, Button, Label, Entry
 from PIL import ImageGrab, Image, ImageTk, ImageFilter
